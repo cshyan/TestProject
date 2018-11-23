@@ -1,1 +1,4 @@
-This is for testing purpose
+The Maven Code is written by James Lee, this folder was cloned for educational purpose.
+Original path for this Maven code: https://github.com/jleetutorial/maven-project
+
+Thanks for sharing.
